@@ -5,7 +5,7 @@ print ("hello world")
 print ("*" * 5)
 message = """
 hey
-whatsup today"""
+whatsup today""
 print(message)
 print(len(message))
 first = "Atud"
