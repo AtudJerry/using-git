@@ -3,7 +3,7 @@ from email import message
 
 print ("hello world")
 print ("*" * 5)
-message = """
+message = ""
 hey
 whatsup today""
 print(message)
